@@ -8,7 +8,6 @@ This is a classic Asteroids game implemented in Python. Navigate your spaceship,
 
 - Player spaceship with 360-degree movement and acceleration
 - Asteroids of various sizes that break into smaller pieces when shot
-- Score tracking
 - Game over condition
 
 ## How to Run
